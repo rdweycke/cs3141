@@ -1,2 +1,2 @@
 # cs3141
-Repository for team software project
+Edit for cs3141 assignment
